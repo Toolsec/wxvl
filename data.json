@@ -15620,5 +15620,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521326&idx=1&sn=eee5b7db26999c41ad137213d0d90a1c": "记录某企业存储型XSS漏洞从发现到数据外泄全路径分析",
     "https://mp.weixin.qq.com/s?__biz=MzkxNTY0NzgwNA==&mid=2247483980&idx=1&sn=4263cd05489194ff5d3e53a235bf3016": "CRMEB-CVE-2024-52726-任意文件下载漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247489256&idx=1&sn=503b05e22ac55c8acc087c2ad80efcba": "利用 WebView 漏洞：绕过 SOP 访问内部应用程序文件",
-    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247641086&idx=2&sn=7947f21af9546a6522db29daeb6323b0": "直播预告 | 攻防演练季应急自救指南-0Day∕NDay来袭，传统防护失效下该如何破局?"
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247641086&idx=2&sn=7947f21af9546a6522db29daeb6323b0": "直播预告 | 攻防演练季应急自救指南-0Day∕NDay来袭，传统防护失效下该如何破局?",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NzkxOTQ0OA==&mid=2247484573&idx=1&sn=aceeff40c7236693b32fabb68ee8ab3b": "XDigo 恶意软件利用 Windows LNK 漏洞对东欧政府发动攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=2&sn=f6b4bc85401b58e71cdb7aa704901f29": "漏洞预警 | 云课网校系统任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491645&idx=1&sn=6961f6e6b2bf79b4616ac3459e85f91c": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月25日",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=3&sn=e9ebcf261289a95fb9471fcac2883806": "漏洞预警 | 泛微E-Cology SQL注入漏洞"
 }
