@@ -15636,5 +15636,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486028&idx=3&sn=d961f6c041977816b00f5c5e7415af1a": "【漏洞复现】Dataease JWT 认证绕过漏洞∕远程代码执行（CVE-2025-49001∕CVE-2025-49002）",
     "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908401&idx=1&sn=e5f24f835066c260946809fee62a5325": "[AI-VA-20250626-001] - Gogs符号链接处理不当导致远程命令执行",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485618&idx=1&sn=0c172c8218bd712fd7319c25ea282f8a": "速速更新！WinRAR 又又又出漏洞了！",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531365&idx=2&sn=eeb68c24e0ebe5b144c992e1b3477757": "TeamViewer 远程管理漏洞 (CVE-2025-36537) 可导致权限提升"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531365&idx=2&sn=eeb68c24e0ebe5b144c992e1b3477757": "TeamViewer 远程管理漏洞 (CVE-2025-36537) 可导致权限提升",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500337&idx=1&sn=cf1c9b178de58a55c1e8bb36541666c2": "还在为代码安全发愁？这款“漏洞规则库”神器请查收！",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531375&idx=1&sn=15a705cf292ef9d6f2122c57749947de": "UAT-6382 利用 Cityworks 零日漏洞传播恶意软件",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323846&idx=1&sn=ce9854e060a565ed66030f32df82d949": "实战漏洞报告合集首发，赏金已超万元",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MTg0MDQ4Nw==&mid=2247581004&idx=1&sn=2f71cde362d2e5dec4e3585e1ac450be": "当分公司突遭漏洞通报……如何揪出安全管理“暗礁”？",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484925&idx=1&sn=f9370d39499273def1088c384bb7cc88": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第25期，总第43期]",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523387&idx=1&sn=d337384a0eacef330ea1c9beaedf7937": "思杰紧急修复已遭利用的NetScaler ADC严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531390&idx=1&sn=ea0a1db7611361fced3917c01d483312": "CVE-2025-47934 – 欺骗 OpenPGP.js 签名验证"
 }
