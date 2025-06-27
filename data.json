@@ -15647,5 +15647,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488924&idx=1&sn=fd5c369c50dfb523c63dab43e94fba98": "你检查过回收站了吗？挖掘 Active Directory 回收站中的权限提升漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096350&idx=2&sn=ad5be77318cdcb22396bebc1fefd8a71": "NVIDIA Megatron LM 让攻击者注入恶意代码漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500142&idx=2&sn=cf476f2a200acb32881e43ae5476faef": "Realtek RTL8762E SDK v1.4.0 中的配对随机数过早注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI2MjcwMTgwOQ==&mid=2247492492&idx=1&sn=d6b757afa59be6084717104a39f36dc4": "快去升级！WinRAR 高危安全漏洞现已修复"
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjcwMTgwOQ==&mid=2247492492&idx=1&sn=d6b757afa59be6084717104a39f36dc4": "快去升级！WinRAR 高危安全漏洞现已修复",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070375&idx=2&sn=43a610075b530001df1d12c917a221e3": "【安全圈】Realtek 蓝牙协议漏洞允许攻击者通过配对过程发起拒绝服务攻击"
 }
