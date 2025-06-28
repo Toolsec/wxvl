@@ -15674,5 +15674,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486060&idx=3&sn=a5a5c6016886294629d6e3236bd45cf4": "CVE-2025-33073｜Windows SMB权限提升漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247489259&idx=1&sn=289b70216c1df342d2d2f5405f38c0f1": "有限路径遍历 RCE 之旅，赏金 40,000 美元！",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484481&idx=1&sn=12f6a7fef44109a965c102f35130580b": "【已复现】用Notepad++提权漏洞社工钓鱼控制系统最高权限",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096358&idx=1&sn=a32f0dc44801024ee9a611408348ce40": "IBM WebSphere Application Server 允许执行任意代码漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096358&idx=1&sn=a32f0dc44801024ee9a611408348ce40": "IBM WebSphere Application Server 允许执行任意代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070405&idx=1&sn=afb3be158a42d504cf141b47db4215dc": "【安全圈】兄弟等742款打印机被曝存在安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485168&idx=1&sn=ccdbf7b18e4e2300a6fa0d4f9aafd306": "亲测AIFuzzing与XiaYue逻辑漏洞检测插件的区别：AI赋能的安全检测工具优势解析"
 }
