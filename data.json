@@ -15698,5 +15698,6 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486744&idx=6&sn=6a59a46fd131c08c41257806d77fa1e2": "【漏洞通告】MIB3整数溢出导致MTU旁路",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491969&idx=1&sn=e6aab9bff8f718de2ce110363fbb6a06": "AgentSyste 代理商管理系统 login.action Struts2 远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499565&idx=1&sn=34fc51e56817b871ded40c91db6234c1": "记一次从登录框到前台rce",
-    "https://mp.weixin.qq.com/s?__biz=MzkwOTE3MzAxOA==&mid=2247485724&idx=1&sn=78443e46894a904a053cbdf53fa1fe02": "Cobaltstrike反制浅析——从伪装上线到RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE3MzAxOA==&mid=2247485724&idx=1&sn=78443e46894a904a053cbdf53fa1fe02": "Cobaltstrike反制浅析——从伪装上线到RCE",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324036&idx=3&sn=986b86eed49f12e022d02e8a20274ca8": "群晖ABM漏洞泄露全局客户端密钥，危及所有微软365租户"
 }
