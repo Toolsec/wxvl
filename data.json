@@ -15713,5 +15713,8 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596324&idx=2&sn=9aceb4a1f80e7cd75b8c79e45465f11a": "Linux Sudo 曝重大漏洞可提权至root并绕过主机限制，速更新！",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493546&idx=2&sn=83c2447b992df23e90763e24e1aa844a": "漏洞预警 | 绿盟网络入侵防护系统信息泄露漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493546&idx=3&sn=d08eea3ea0118239a217d343dc31fd19": "漏洞预警 | 用友NC SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261370&idx=1&sn=18504a61d83c70267e35639ced27d133": "【CVE-2025-49144】Notepad++ 漏洞可实现系统完整入侵"
+    "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261370&idx=1&sn=18504a61d83c70267e35639ced27d133": "【CVE-2025-49144】Notepad++ 漏洞可实现系统完整入侵",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDYwMDcyNQ==&mid=2247489022&idx=1&sn=69b96ddf5e6b92e1c401efa186d2f1f4": "【必查漏洞】Sudo Host_Alias 权限提升漏洞 (CVE-2025-32462) 检测手册",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521959&idx=2&sn=7d995c11b35283ee1e76812768d2151c": "记一次某大厂csrf漏洞通过蠕虫从低危到高危",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494128&idx=1&sn=2db6b38b631e2ab23f15f65f29f75b13": "【已复现】WinRAR 目录遍历漏洞(CVE-2025-6218)"
 }
