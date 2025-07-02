@@ -15716,5 +15716,6 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261370&idx=1&sn=18504a61d83c70267e35639ced27d133": "【CVE-2025-49144】Notepad++ 漏洞可实现系统完整入侵",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDYwMDcyNQ==&mid=2247489022&idx=1&sn=69b96ddf5e6b92e1c401efa186d2f1f4": "【必查漏洞】Sudo Host_Alias 权限提升漏洞 (CVE-2025-32462) 检测手册",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521959&idx=2&sn=7d995c11b35283ee1e76812768d2151c": "记一次某大厂csrf漏洞通过蠕虫从低危到高危",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494128&idx=1&sn=2db6b38b631e2ab23f15f65f29f75b13": "【已复现】WinRAR 目录遍历漏洞(CVE-2025-6218)"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494128&idx=1&sn=2db6b38b631e2ab23f15f65f29f75b13": "【已复现】WinRAR 目录遍历漏洞(CVE-2025-6218)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488213&idx=1&sn=f1b96aaae6ec3f0f1f99c4414b63ea61": "紧急！Chrome零日漏洞遭黑客利用，Google发布高危补丁（CVE-2025-6554）"
 }
