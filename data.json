@@ -15733,5 +15733,15 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596362&idx=2&sn=851d02e396bd4ad0b2e18607c221d2cf": "最高3倍漏洞奖金+单漏洞最高价值百万，开源鸿蒙安全守护者即刻集结！",
     "https://mp.weixin.qq.com/s?__biz=MzU0NDI5NTY4OQ==&mid=2247486422&idx=1&sn=1950ae508c495b4f902accb605b1908e": "从0到1大模型MCP自动化漏洞挖掘实践",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324079&idx=3&sn=23330a41d753210c404f022f9a91115e": "谷歌紧急修复已被利用的Chrome高危零日漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523425&idx=1&sn=d86d65a64846ff68a79a294116423c60": "CISA 提醒注意 Microsens 中的多个严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDUxOTk2Mw==&mid=2247496737&idx=1&sn=370c593f1bce328f065b2ee3561a83bb": "【论文速读】| FuncVul——基于LLM与代码块的高效函数级漏洞检测模型",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324107&idx=1&sn=f89429997e0347cfe1580cc8ca6e858b": "Nessus严重漏洞允许覆盖任意本地系统文件",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712371&idx=1&sn=7f8436b06ea91d58fe0d1e3ca12933f2": "CVE-2025-32462&CVE-2025-32463",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487528&idx=1&sn=30eebba649d6c713043d17db3ea68364": "Cisco ISE ERS ​​API CVE-2025-20281 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503443&idx=1&sn=ac58ea5dade899a4310c5f8e8bdcaf76": "【成功复现】WinRAR目录遍历漏洞(CVE-2025-6218)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=2&sn=35dbec1ac12ce977cb52bd37b9d9860a": "MongoDB 服务器预认证漏洞可用于触发 DoS 条件",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519515&idx=1&sn=f30efcb700f7338573925ec983993cec": "SRC漏洞挖掘之“嫂子开门，我是我哥”",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490433&idx=1&sn=6ea78f033857836e66b0fa5bb027102e": "【已复现】Linux sudo存在本地提权漏洞（CVE-2025-32463）",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490353&idx=1&sn=c5470fd58355538b2dbea6a82e14b61a": "【高危漏洞预警】sudo < 1.9.17p1 host&chroot本地提权漏洞"
 }
