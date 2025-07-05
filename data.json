@@ -15767,5 +15767,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514637&idx=1&sn=fa07c6d1743943a472d11181a4524966": "微软云身份曝严重漏洞：对低级别用户过度授权，导致客户VPN密钥泄露",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245177&idx=2&sn=6683aa774f604f52b1f4752b54de0147": "前沿 | 基于人工智能的漏洞挖掘应用实践探讨",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=2&sn=6fb767fa5ebe3a22a7b0a961be3c6df2": "CISA提醒注意已遭利用的两个 TeleMessage 漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492212&idx=1&sn=d5b473f62fc06b60c4bf8a71d3bd2de1": "JAVA常见漏洞复现"
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492212&idx=1&sn=d5b473f62fc06b60c4bf8a71d3bd2de1": "JAVA常见漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484499&idx=1&sn=8990d10a757c9fdb5cfde304a9632624": "【在野利用】Chrome V8 引擎类型混淆漏洞(CVE-2025-6554)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492021&idx=1&sn=a7e4f43c8a2f6556f98aefe8b21fd3bb": "锐捷EWEB路由器 check.php 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497813&idx=1&sn=c778ad6a4bffd7a0a72a900144ea90ca": "如何利用ai辅助挖漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324439&idx=3&sn=3b3fda6017ddcf4e245a7bc065334df7": "Apache组件遭大规模攻击，高危RCE漏洞引来12万次利用尝试",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=1&sn=fb41027f31142b3eef6b9494edc4b71e": "微软 Edge 修复两个高危RCE漏洞"
 }
