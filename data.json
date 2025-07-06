@@ -15772,5 +15772,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492021&idx=1&sn=a7e4f43c8a2f6556f98aefe8b21fd3bb": "锐捷EWEB路由器 check.php 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497813&idx=1&sn=c778ad6a4bffd7a0a72a900144ea90ca": "如何利用ai辅助挖漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324439&idx=3&sn=3b3fda6017ddcf4e245a7bc065334df7": "Apache组件遭大规模攻击，高危RCE漏洞引来12万次利用尝试",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=1&sn=fb41027f31142b3eef6b9494edc4b71e": "微软 Edge 修复两个高危RCE漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523450&idx=1&sn=fb41027f31142b3eef6b9494edc4b71e": "微软 Edge 修复两个高危RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531649&idx=1&sn=64834d89e32ec56e08e86ecd3aafc82b": "攻击者通过滥用暴露的 Java 调试线协议 (JDWP) 接口实现远程代码执行，部署挖矿",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492030&idx=1&sn=2f1e08366fd11272bd71505d6a4d0382": "中科博华网龙网关 arp_scan.php 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NDg0ODkwMQ==&mid=2247486452&idx=1&sn=4a801e396583f602f9a3802e920392a6": "RCE 漏洞(上)：远程代码和命令执行的致命威胁",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MjgwMDg1Mg==&mid=2247485867&idx=1&sn=374e41a76fcb63fae76856d2d879f26b": "思科 Unified CM 中存在严重漏洞，可通过静态凭证获取 Root 权限"
 }
