@@ -15787,5 +15787,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531649&idx=2&sn=e7df67683a084053ceec541815be401e": "CVE-2025-53367：DjVuLibre 中可利用的越界写入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzcxMDQwMg==&mid=2247487105&idx=1&sn=fc2288177dd8544ef2ccab2411d6bd15": "从路径遍历到远程命令执行（RCE）",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324483&idx=2&sn=7b7840a855c25cff444583b7d7681c6f": "FreeBuf周报 | Linux高危Sudo漏洞可提权至root并绕过限制；Lucee应用服务器曝高危漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487623&idx=1&sn=1d8479b2fa702e596e21d8f2015d7ac4": "第128篇：Struts2全版本漏洞检测工具19.68版本更新"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMjI1NjI3Ng==&mid=2247487623&idx=1&sn=1d8479b2fa702e596e21d8f2015d7ac4": "第128篇：Struts2全版本漏洞检测工具19.68版本更新",
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247641383&idx=1&sn=3b2c19de6851d8fb8cfd37d6abda9929": "在看 | 周报：南阳某机械有限公司网站遭黑客攻击；742款打印机被曝存在安全漏洞；虚假WPS安装程序暗藏远控木马",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTIzODg0MA==&mid=2247491280&idx=1&sn=86a1cb364f0a376f612cac439af73f16": "一次JDBC反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485869&idx=1&sn=6fe90b43d2b3ed6b8eeb7c8c28826e86": "【福利】漏洞挖掘文档！推荐下载"
 }
