@@ -15792,5 +15792,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwOTIzODg0MA==&mid=2247491280&idx=1&sn=86a1cb364f0a376f612cac439af73f16": "一次JDBC反序列化漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485869&idx=1&sn=6fe90b43d2b3ed6b8eeb7c8c28826e86": "【福利】漏洞挖掘文档！推荐下载",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096374&idx=2&sn=0db1104436ef7e1f9d8ce2148c89f9f2": "Next.js 允许攻击者通过缓存中毒触发 DoS漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489743&idx=1&sn=48f097e5b2792e8b696abd83ed3b00a0": "CVE-2025-6218 Poc复现及1Day研究"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489743&idx=1&sn=48f097e5b2792e8b696abd83ed3b00a0": "CVE-2025-6218 Poc复现及1Day研究",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488236&idx=1&sn=a8f7fb7621b343fe140d88427c4468ff": "紧急预警：Linux曝高危Sudo漏洞，普通用户秒变root管理员！（附POC）",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531708&idx=2&sn=4a6933ad20a93e82115716b907fedd14": "利用 DLL PEB 模块结构操作的代码执行∕注入技术",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486299&idx=1&sn=3b0933c297885d6e78d8e0b8ec2a5f3b": "Jeecg-boot常见漏洞汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521651&idx=1&sn=74140f4b8af0de3c945a298f4078788a": "护网工具 | NacosExploitGUI_v7.0"
 }
