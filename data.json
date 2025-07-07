@@ -15800,5 +15800,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493630&idx=1&sn=45861fae4709fa33d3f7e3009fc75254": "漏洞预警 | Wing FTP服务器远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611281&idx=2&sn=0b13a7fa48b99eb7891098356636b07b": "联想Windows目录可写文件漏洞可隐秘绕过AppLocker防护",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493630&idx=3&sn=85a8466b2d752154d97df30291f0c2f8": "漏洞预警 | Linux sudo本地提权漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492423&idx=1&sn=11c5751ce8c00ae8ea6046da3c250e20": "QVD-2025-23408：契约锁电子签章系统未授权RCE漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492423&idx=1&sn=11c5751ce8c00ae8ea6046da3c250e20": "QVD-2025-23408：契约锁电子签章系统未授权RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNDIxODkyMg==&mid=2650086589&idx=1&sn=8d27fc2cb4a14c832ff3dae6ba22be0a": "你的耳机在被偷听！20+音频设备曝出漏洞：索尼、Bose、JBL等沦陷",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492060&idx=1&sn=0aa4a27dfb422c5b871569d898293228": "百易云资管系统 imaRead.make.php SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA3MTUxNzQxMQ==&mid=2453886107&idx=1&sn=64ce6fbcbe83c971d3046d082da081fb": "思科修复统一通信管理器静态SSH root凭证高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488240&idx=1&sn=7e86813f05930083c05546d69f31f925": "HW（2025-7-7）上午护网漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506926&idx=1&sn=20eed566beba200c7dd2651d3bca29b0": "从开放重定向到内部访问：我的 SSRF 漏洞利用故事",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTM4OTQ5Mg==&mid=2247636489&idx=4&sn=2133ab4c53798a33591c247a0492d1d0": "夜鹰APT组织利用微软Exchange漏洞攻击国内军工与科技领域"
 }
