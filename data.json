@@ -15796,5 +15796,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488236&idx=1&sn=a8f7fb7621b343fe140d88427c4468ff": "紧急预警：Linux曝高危Sudo漏洞，普通用户秒变root管理员！（附POC）",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531708&idx=2&sn=4a6933ad20a93e82115716b907fedd14": "利用 DLL PEB 模块结构操作的代码执行∕注入技术",
     "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486299&idx=1&sn=3b0933c297885d6e78d8e0b8ec2a5f3b": "Jeecg-boot常见漏洞汇总",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521651&idx=1&sn=74140f4b8af0de3c945a298f4078788a": "护网工具 | NacosExploitGUI_v7.0"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521651&idx=1&sn=74140f4b8af0de3c945a298f4078788a": "护网工具 | NacosExploitGUI_v7.0",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493630&idx=1&sn=45861fae4709fa33d3f7e3009fc75254": "漏洞预警 | Wing FTP服务器远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611281&idx=2&sn=0b13a7fa48b99eb7891098356636b07b": "联想Windows目录可写文件漏洞可隐秘绕过AppLocker防护",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493630&idx=3&sn=85a8466b2d752154d97df30291f0c2f8": "漏洞预警 | Linux sudo本地提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492423&idx=1&sn=11c5751ce8c00ae8ea6046da3c250e20": "QVD-2025-23408：契约锁电子签章系统未授权RCE漏洞"
 }
