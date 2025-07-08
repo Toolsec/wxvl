@@ -15823,5 +15823,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484703&idx=1&sn=cef647655b1d164daa9a84854dc90034": "Prometheus 未授权访问漏洞处理",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096374&idx=1&sn=aa9233641ab5de3a299f4d20e0b510ea": "多个 PHP 支持 SQLi 和 DoS 攻击漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491712&idx=1&sn=e2d5206def5474dacc15a2dd6c6969cc": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月04~06日",
-    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495212&idx=1&sn=00ae3354296be75c719f7c2bda855410": "效率翻倍 | 集成化BurpSuite漏洞探测插件实战演示"
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495212&idx=1&sn=00ae3354296be75c719f7c2bda855410": "效率翻倍 | 集成化BurpSuite漏洞探测插件实战演示",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497824&idx=1&sn=d05e05ef9f38616d66fc34d888663358": "作为一名不具备天赋的普通人，如何在漏洞赏金计划中取得成功",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494699&idx=1&sn=69f6bcf949f34426d14e3cb19a6128ed": "Fiora：漏洞PoC框架Nuclei的图形版。快捷搜索PoC、一键运行Nuclei。可作为独立程序运行也可burp插件使用。"
 }
