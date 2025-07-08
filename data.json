@@ -15831,5 +15831,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521663&idx=1&sn=1a7aa58916d280391fd2526ffe2c169f": "护网情报 ｜汉王e脸通综合管理平台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484416&idx=1&sn=d4ca2b0c863b7ac03f1c479a4455648d": "【漏洞复现】锐捷 RG-EW120路由器存在密码重置漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492761&idx=1&sn=74dceba6e96dc5542167e58b17b22472": "分享Jeecg-boot中的Nday漏洞汇总打法",
-    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500084&idx=1&sn=38b270f2be6c4a876c14b613950e4899": "CNVD漏洞周报2025年第25期"
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500084&idx=1&sn=38b270f2be6c4a876c14b613950e4899": "CNVD漏洞周报2025年第25期",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500929&idx=1&sn=dee2bdaa182554616ea85ceef4775672": "汉王e脸通综合管理平台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487548&idx=1&sn=7b0fb2f3107df101675679504bbb0c10": "PHP 漏洞 CVE-2025-6491（SOAP DoS）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547053&idx=1&sn=ab425df27b630dfa1c1d59759bf1ad37": "【更！】25HVV热点攻击漏洞含0day，各单位自查...",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=3&sn=3c9b51451f5763c003d384a08f8ec50e": "【漏洞通告】Redis 未认证连接导致拒绝服务漏洞 (CVE-2025-48367)",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070555&idx=4&sn=a0045b414dc83b5ccab5d88ec4c10558": "【安全圈】《使命召唤：二战》曝严重漏洞，PC玩家遭远程黑客攻击，游戏被紧急下线",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494163&idx=1&sn=ef3a94f06cd0f1e50ff400b0fd0c78ba": "【已复现】Redis HyperLogLog远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=MzA5OTA0MTU4Mg==&mid=2247486239&idx=1&sn=8e885ab19cba7e27c6d24a33dcb6de17": "某堡垒机 set_port 远程命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484501&idx=1&sn=d382e52bf88d07f6596b7426acf7f730": "第128篇：Struts2全版本漏洞检测工具19.68版本更新"
 }
