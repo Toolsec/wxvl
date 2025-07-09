@@ -15858,5 +15858,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503563&idx=1&sn=09169a0ba263b129a115d0fa708b0d02": "【已复现】Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492081&idx=1&sn=894a554f87721dca1ce2c4cbcb622ae2": "信呼OA uploawAction.php SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484705&idx=1&sn=49fad1f3e7c910efc380ae3f1895f0fc": "漏洞预警 | Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795661&idx=3&sn=2488e7df2447ab0208b59164f15dd06a": "微软 7 月补丁日修复 130 个漏洞，其中包括 SQL Server 0day"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795661&idx=3&sn=2488e7df2447ab0208b59164f15dd06a": "微软 7 月补丁日修复 130 个漏洞，其中包括 SQL Server 0day",
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247641440&idx=1&sn=cd0ded48c2d71cd4e57deae91254b1c9": "「限时免单」安全漏洞防治工作标准化的必要性：抵御不断演变的威胁之盾",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497828&idx=1&sn=3edecf58ac99722cc6db88b124495ed3": "SRC漏洞挖掘之“嫂子开门，我是我哥”",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324666&idx=3&sn=ee5583eca517c2e940909cfa2b32ad1e": "Git项目修复三大漏洞：远程代码执行、任意文件写入与缓冲区溢出",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486429&idx=1&sn=1122596685f8cc2619332467ebe13ffc": "Unauthorized-Vul【最全未授权访问漏洞批量检测工具】",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503452&idx=1&sn=2a1a3a5acd88ac7d56b6249129a61d52": "【成功复现】Pichome路径遍历漏洞 (CVE-2025-1743)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxOTUyOTc0NQ==&mid=2247493555&idx=1&sn=4df91360f16f4d814717187b7abce6f8": "蜜罐捕获一个自动化漏洞攻击的机器人程序",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507831&idx=1&sn=0494cdb26d682d39f195fa3ebed8fef8": "收漏洞！收X情报社区的漏洞！"
 }
