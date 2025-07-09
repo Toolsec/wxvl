@@ -15851,5 +15851,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491716&idx=1&sn=56c0e2eca58ac6a391038825ae1a1e81": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月08日",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484421&idx=1&sn=5c3724f0c2d78efe44c29769c0a54860": "【漏洞复现】南昊网上阅卷系统∕exam∕monitor∕index.jsp接口未授权访问",
     "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252169&idx=1&sn=47e985b033077e98cd528abb15e1a47f": "国际刑事法院遭零日漏洞网络攻击，敏感数据岌岌可危",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516963&idx=1&sn=ee00aff35e8bf7a7f1ded9b69d562f9e": "Struts2全版本漏洞检测工具 -- Struts2VulsScanTools（7月5日更新）"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516963&idx=1&sn=ee00aff35e8bf7a7f1ded9b69d562f9e": "Struts2全版本漏洞检测工具 -- Struts2VulsScanTools（7月5日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526738&idx=1&sn=198681d077860153b253b1e29ce8bede": "Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTkwODU3Ng==&mid=2247515396&idx=1&sn=cd3c577b9492d4197fee6394c426a21a": "QaFuzz：关于测试域名的漏洞挖掘工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488244&idx=1&sn=01a64335c638438a54a0ead3790c9789": "HW（2025-7-8）护网漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503563&idx=1&sn=09169a0ba263b129a115d0fa708b0d02": "【已复现】Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492081&idx=1&sn=894a554f87721dca1ce2c4cbcb622ae2": "信呼OA uploawAction.php SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484705&idx=1&sn=49fad1f3e7c910efc380ae3f1895f0fc": "漏洞预警 | Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795661&idx=3&sn=2488e7df2447ab0208b59164f15dd06a": "微软 7 月补丁日修复 130 个漏洞，其中包括 SQL Server 0day"
 }
