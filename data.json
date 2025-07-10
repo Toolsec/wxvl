@@ -15881,5 +15881,14 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489607&idx=1&sn=f653ccba645312065858513344d2a9cf": "【0day】紧急提醒！你的Telegram私密群组∕频道可能被未授权访问！",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=7&sn=88d1aad32efce95a42eff434157efe29": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现",
     "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486434&idx=1&sn=7915ee874f143a14d82291212af62ca0": "Web与全版本服务漏洞检测工具 - z0scan",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484909&idx=1&sn=f7c17bd3c58d6e06afe0eee7178e533f": "【复现】泛微Ecology前台SQL注入漏洞风险通告"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484909&idx=1&sn=f7c17bd3c58d6e06afe0eee7178e533f": "【复现】泛微Ecology前台SQL注入漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489947&idx=1&sn=8fa9889e55764337aa01a67e766b0a00": "【0day】紧急提醒！你的Telegram私密群组∕频道可能被未授权访问！",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NjYzMDM1Mg==&mid=2247525965&idx=1&sn=4cce799f1eac9ea200619ceea69704db": "2025-07微软漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507834&idx=1&sn=cb2a5fffe56db189abdb84f8cf483df4": "酌情处置 | Redis hyperloglog 命令远程代码执行漏洞利用条件较多",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507841&idx=1&sn=cfa2847a732b4051019158b1f166e27f": "泛微E-cology9 前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503463&idx=1&sn=6ef0546654e72e110fb0e22dc6c2a065": "【成功复现】LlamaIndex SQL注入漏洞(CVE-2025-1750)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491720&idx=1&sn=18f6d4ace8786e4d6c4f0ed0caf3d0b8": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月09日",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247500813&idx=1&sn=6c8d8bd1fa20374d7dc2b54b56bc22ab": "西门子、施耐德、菲尼克斯电气修复漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDE5NDcxMA==&mid=2650936291&idx=1&sn=c538ba31126da0a3fc74f6d7ae3694e6": "Windows Update 服务权限提升漏洞-CVE-2025-48799",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485722&idx=1&sn=93ce0517f2615466f5085ccd082cc479": "CVE-2025-48799: Windows 权限提升获取System权限【附POC】"
 }
