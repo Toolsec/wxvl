@@ -15872,5 +15872,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490389&idx=1&sn=a4b381c2318fb8f2925676474ebc9324": "【高危漏洞预警】Redis hyperloglog远程代码执行漏洞CVE-2025-32023",
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492859&idx=1&sn=66a45e4f38874a4b0c0e0d9f5234dfe9": "【已复现】Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490456&idx=1&sn=d62d1062414385b7f829b9ad9c765da1": "【7∕8特辑】一线最新漏洞情报来袭",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490818&idx=1&sn=b8b5e7f8dc6be896a96fc042718d0e5f": "【SRC】某平台毕业季开房优惠卷逻辑漏洞（红姐邀请你进房间）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490818&idx=1&sn=b8b5e7f8dc6be896a96fc042718d0e5f": "【SRC】某平台毕业季开房优惠卷逻辑漏洞（红姐邀请你进房间）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494180&idx=1&sn=b0353fe95161dbbe5a133dd5fa564d22": "【已复现】Git 远程代码执行漏洞(CVE-2025-48384)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494180&idx=2&sn=842aa35155a1456c7ffced77317fd433": "【已复现】Windows Update Service 本地权限提升漏洞(CVE-2025-48799)",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493665&idx=2&sn=b13a0fe888ba0def887c35071df5aa2b": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070569&idx=2&sn=190752ffac23d6be9ddec582d3384a58": "【安全圈】Linux启动漏洞可绕过Secure Boot：攻击者仅需物理接触即可植入持久木马",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493676&idx=2&sn=d36ca7a2cbbe4c946eed6fc5114a281e": "漏洞预警 | 爱数AnyShare智能内容管理平台命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489607&idx=1&sn=f653ccba645312065858513344d2a9cf": "【0day】紧急提醒！你的Telegram私密群组∕频道可能被未授权访问！"
 }
