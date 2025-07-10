@@ -15890,5 +15890,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491720&idx=1&sn=18f6d4ace8786e4d6c4f0ed0caf3d0b8": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月09日",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247500813&idx=1&sn=6c8d8bd1fa20374d7dc2b54b56bc22ab": "西门子、施耐德、菲尼克斯电气修复漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI5MDE5NDcxMA==&mid=2650936291&idx=1&sn=c538ba31126da0a3fc74f6d7ae3694e6": "Windows Update 服务权限提升漏洞-CVE-2025-48799",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485722&idx=1&sn=93ce0517f2615466f5085ccd082cc479": "CVE-2025-48799: Windows 权限提升获取System权限【附POC】"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485722&idx=1&sn=93ce0517f2615466f5085ccd082cc479": "CVE-2025-48799: Windows 权限提升获取System权限【附POC】",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492872&idx=1&sn=90db05effb93a6cd8efb63c5fa4dfa0d": "【已复现】泛微e-cology 前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491130&idx=1&sn=bce87c351315abd069bb98e99f37ac10": "大洞，速修，Redis远程命令执行漏洞。",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492931&idx=1&sn=170a4a59b56d9bc4fbdc04e77da37999": "【0day挖掘】怎么用“Rotor Goddess”轻松爆出过万资产的漏洞，以及其他小洞的出货方式与流程",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547132&idx=1&sn=cd484270f0cd9ed5dc17fdeafb2e76dd": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTI5NTgyMw==&mid=2247511266&idx=1&sn=b3ca1d6fb81cf3af35f5b93cc05e560e": "某制造业公司：30 分钟速通 2025 高危漏洞排查 + 推修实战",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908542&idx=1&sn=83623032b333f88591df7b0a6e59b3b9": "十年博弈 - ViewState RCE的前世今生"
 }
