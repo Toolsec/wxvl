@@ -15878,5 +15878,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493665&idx=2&sn=b13a0fe888ba0def887c35071df5aa2b": "漏洞预警 | 深信服运维安全管理系统远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070569&idx=2&sn=190752ffac23d6be9ddec582d3384a58": "【安全圈】Linux启动漏洞可绕过Secure Boot：攻击者仅需物理接触即可植入持久木马",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493676&idx=2&sn=d36ca7a2cbbe4c946eed6fc5114a281e": "漏洞预警 | 爱数AnyShare智能内容管理平台命令注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489607&idx=1&sn=f653ccba645312065858513344d2a9cf": "【0day】紧急提醒！你的Telegram私密群组∕频道可能被未授权访问！"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTUwNTU5Nw==&mid=2247489607&idx=1&sn=f653ccba645312065858513344d2a9cf": "【0day】紧急提醒！你的Telegram私密群组∕频道可能被未授权访问！",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=7&sn=88d1aad32efce95a42eff434157efe29": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现",
+    "https://mp.weixin.qq.com/s?__biz=MzIzNTE0Mzc0OA==&mid=2247486434&idx=1&sn=7915ee874f143a14d82291212af62ca0": "Web与全版本服务漏洞检测工具 - z0scan",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484909&idx=1&sn=f7c17bd3c58d6e06afe0eee7178e533f": "【复现】泛微Ecology前台SQL注入漏洞风险通告"
 }
