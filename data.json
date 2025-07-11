@@ -15917,5 +15917,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489367&idx=1&sn=084efb7db8b14482e6e9abdf2072363b": "CVE-2025-1729 - 使用 TPQMAssistant.exe 进行权限提升",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597040&idx=2&sn=cdca0a3babe6585f09000478395ba7bf": "Windows 系统曝 wormable 级 RCE 漏洞，CVSS 评分 9.8",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492100&idx=1&sn=2ac32dbe5ae3536bf4f8ca17aa63441f": "龙采商城系统 auditing SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248204&idx=1&sn=178c491f38246ca9d1e8161b2c9cc9db": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统 | 用“算力门槛”阻击AI爬虫"
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248204&idx=1&sn=178c491f38246ca9d1e8161b2c9cc9db": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统 | 用“算力门槛”阻击AI爬虫",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788781&idx=1&sn=148a363ff5ef9b1e0e3fddf8321a100e": "数十亿手机可被监听，eSIM漏洞牵动全球通信生态",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488270&idx=1&sn=b758c728658c0d5610a24330df60ebc4": "HW（2025-7-11）护网漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484933&idx=1&sn=f500975fd1a9a25ea4573fcea6363636": "【0day挖掘】Rotor Goddess 轻松爆出过万资产漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjA5OTY5Ng==&mid=2247526752&idx=1&sn=323ade965e504a92cfa97f8cd939be3b": "契约锁电子签章系统 pdfverifier 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490613&idx=1&sn=bf728f4cff492892dae89570b62f83db": "2025-7-10日漏洞情报汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492412&idx=1&sn=bdef4f5797f61f734ae0e820df20489c": "渗透测试中的逻辑漏洞思路博弈",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492149&idx=1&sn=0049b56198aaeb2be7adf60b3a8a13f4": "某制造业公司：30 分钟速通 2025 高危漏洞排查 + 推修实战"
 }
