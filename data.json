@@ -15913,5 +15913,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500953&idx=1&sn=616ebafdcd78c30f209b3f5ed9a2a080": "用友U9 DynamaticExport任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503591&idx=1&sn=d2d745e2f4f838c527281205db85b1b4": "【已复现】泛微E-cology9 前台SQL注入漏洞(QVD-2025-26680)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484507&idx=1&sn=bdd96d70bb0af4746b561264f05e1d2c": "【已复现】泛微 E-cology9 SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795684&idx=3&sn=af7946160c8fdf6d2793640386d7a4a4": "BlueSDK 蓝牙堆栈存在严重漏洞，可能允许在汽车系统上执行远程代码"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795684&idx=3&sn=af7946160c8fdf6d2793640386d7a4a4": "BlueSDK 蓝牙堆栈存在严重漏洞，可能允许在汽车系统上执行远程代码",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489367&idx=1&sn=084efb7db8b14482e6e9abdf2072363b": "CVE-2025-1729 - 使用 TPQMAssistant.exe 进行权限提升",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597040&idx=2&sn=cdca0a3babe6585f09000478395ba7bf": "Windows 系统曝 wormable 级 RCE 漏洞，CVSS 评分 9.8",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492100&idx=1&sn=2ac32dbe5ae3536bf4f8ca17aa63441f": "龙采商城系统 auditing SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248204&idx=1&sn=178c491f38246ca9d1e8161b2c9cc9db": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统 | 用“算力门槛”阻击AI爬虫"
 }
