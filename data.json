@@ -15906,5 +15906,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490408&idx=1&sn=e246a7cc4126803185f77f25ef5eab14": "【高危漏洞预警】Git远程代码执行漏洞(CVE-2025-48384)",
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492767&idx=1&sn=f859ddce15279eae9d072ed1a9357c2a": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650624093&idx=2&sn=9d235e1823de35400fc8f7f6bc25a300": "涉及140个重要漏洞！微软发布2025年7月补丁日安全通告",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493681&idx=1&sn=9523c6d0eda530b7c5ebdd3ac944351d": "漏洞预警 | 畅捷通T+ SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493681&idx=1&sn=9523c6d0eda530b7c5ebdd3ac944351d": "漏洞预警 | 畅捷通T+ SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545194&idx=1&sn=f6a13541555121a7cef45a689b02e08d": "清华大学招聘漏洞挖掘工程师（清华大学正式合同）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488265&idx=1&sn=5d4f61665320ae84e621d43683817245": "高危警报！mcp-remote漏洞可完全控制你的电脑，43万次下载受影响",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491738&idx=1&sn=86ea41746ad2eb27f67c42848d53149a": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月10日",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500953&idx=1&sn=616ebafdcd78c30f209b3f5ed9a2a080": "用友U9 DynamaticExport任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503591&idx=1&sn=d2d745e2f4f838c527281205db85b1b4": "【已复现】泛微E-cology9 前台SQL注入漏洞(QVD-2025-26680)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484507&idx=1&sn=bdd96d70bb0af4746b561264f05e1d2c": "【已复现】泛微 E-cology9 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795684&idx=3&sn=af7946160c8fdf6d2793640386d7a4a4": "BlueSDK 蓝牙堆栈存在严重漏洞，可能允许在汽车系统上执行远程代码"
 }
