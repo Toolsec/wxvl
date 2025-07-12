@@ -15931,5 +15931,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547154&idx=1&sn=ed18dc2a48d5baf054db84d47279fb1b": "【新！】CNNVD通报微软多个安全漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597083&idx=3&sn=5ed9d81521495a3efbc2a3afe6aedaf8": "PerfektBlue漏洞危及梅赛德斯、大众和斯柯达等多款汽车信息娱乐系统",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523555&idx=1&sn=caf9ee84b43c4fc81ee51bfbe2c7d11d": "蓝牙漏洞PerfektBlue 可用于实现RCE，影响多家汽车厂商",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324803&idx=4&sn=f6f6b55650aaba7bab0138c6e9c8c663": "麦当劳AI招聘工具漏洞导致6400万求职者数据泄露"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324803&idx=4&sn=f6f6b55650aaba7bab0138c6e9c8c663": "麦当劳AI招聘工具漏洞导致6400万求职者数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486522&idx=1&sn=a01569e808d3475b13fe5f2b04268a76": "Struts2VulsScanTools【Struts2全版本漏洞检测工具】",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490470&idx=1&sn=76647e3cbc939582e3fa73101fc442f4": "【已复现】契约锁电子签章系统存在远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324803&idx=3&sn=a328e0d32ba8414355872528a04b0823": "Linux内核NFT子系统曝高危\"双重释放\"漏洞可致本地提权",
+    "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491912&idx=1&sn=17f6f3f0b90b29e022a81ea8c8b28cdb": "如何在日常渗透中实现通杀漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492877&idx=1&sn=f6c804a45992dbfc7e82c40884909de9": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞"
 }
