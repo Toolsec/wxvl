@@ -15961,5 +15961,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTA4OTI5NA==&mid=2247521456&idx=1&sn=205c24044197361741632e9f3e4f57e4": "JS扫描与漏洞挖掘利器推荐—Rotor Goddess",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490169&idx=1&sn=1c03eca279db12aecea40a2a46eafd9a": "某新版诈骗双端APP通讯录存在前台SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494231&idx=1&sn=108ce757a60b9c8454839dc15a6c7df4": "【已复现】Fortinet FortiWeb SQL注入漏洞(CVE-2025-25257)",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070639&idx=2&sn=f98a8cececf06db2add503959abb412c": "【安全圈】PerfektBlue：四项蓝牙协议栈漏洞危及数百万车辆，可被远程执行代码"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070639&idx=2&sn=f98a8cececf06db2add503959abb412c": "【安全圈】PerfektBlue：四项蓝牙协议栈漏洞危及数百万车辆，可被远程执行代码",
+    "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247515236&idx=1&sn=fc3c5c6dbf3b2cbc32405070170609d6": "2025某新版诈骗双端APP通讯录前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324804&idx=3&sn=859f6647543d5b23c0064c147c9cec34": "FreeBuf周报 | Redis被曝三大严重安全漏洞；AMD新型漏洞影响多款CPU",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488282&idx=1&sn=9c0d55fb7692c79b5d1e5045cd757f49": "Redis 高危漏洞！HyperLogLog 竟成系统后门？(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485901&idx=1&sn=98f01fe47e2f506d7a05144b399eecd3": "Ckeditor漏洞挖掘实战",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492596&idx=1&sn=a50b7b65f5e4064042180aab1032775c": "分析某oa历史漏洞中捡到CNVD证书"
 }
