@@ -15983,5 +15983,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493135&idx=1&sn=306bed2b9378881be53a5e8817b5691b": "Forminator 插件漏洞使 WordPress 网站面临接管攻击",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492614&idx=1&sn=2d05e9cc7f905932ff7bd4632366746b": "关于打高版本java,cc6复现",
     "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489437&idx=1&sn=1e4298f03de6ef16d2e8a61fd667f0ef": "网络安全周刊#7: Fortinet FortiWeb 严重SQL注入漏洞剖析",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494237&idx=1&sn=dea8f8c3d8d3a0f176dc38b626477687": "立即修补：CVE-2025-25257概念验证漏洞可导致Fortinet FortiWeb远程代码执行"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494237&idx=1&sn=dea8f8c3d8d3a0f176dc38b626477687": "立即修补：CVE-2025-25257概念验证漏洞可导致Fortinet FortiWeb远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324846&idx=4&sn=f1d0bf41e03a0e999487db8bcdacbf1a": "600余个Laravel应用因GitHub泄露APP_KEY面临远程代码执行风险",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523565&idx=1&sn=bb6888cc84ad4eba9d87a3ed0137acd8": "APP_KEYs遭暴露，超600款Laravel应用易遭RCE攻击"
 }
