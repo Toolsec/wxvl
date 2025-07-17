@@ -16049,5 +16049,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486558&idx=1&sn=e150a399f701a2a8c0b490ea631bfa05": "代码审计-Java项目-反序列化漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NzkwMTYyOQ==&mid=2247489680&idx=1&sn=37eee459a55b76471119db69d6b93f58": "【转子女神更新与0day挖掘】浅谈用转子挖掘0day的思路式",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTQ4MzQ4Ng==&mid=2247484210&idx=1&sn=522f16f64c49ddd7f300f95fd8b33ef4": "【0day挖掘】怎么用“Rotor Goddess”轻松出洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488317&idx=1&sn=9045a6c31f840069ee784531049bfb03": "HW（2025-7-17）护网漏洞信息收集汇总"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488317&idx=1&sn=9045a6c31f840069ee784531049bfb03": "HW（2025-7-17）护网漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096390&idx=1&sn=66c0d876dfb455de07d6dd757c11785c": "Node.js 漏洞使 Windows 应用程序面临路径遍历和 HashDoS 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490163&idx=1&sn=b3f45daec1576c19d9cd94b0751a9bda": "记一次有趣的逻辑漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486562&idx=1&sn=a00c80480f832a5f80b14fafdaa68a42": "代码审计-Java项目-组件RCE代码执行漏洞审计",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531773&idx=2&sn=87c094ebed1fc43d49cbe8426e57d36b": "探索 Node.js 中的零日漏洞：CVE-2025-27210",
+    "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496792&idx=1&sn=1a89dc1a57debe1bcc662fc35fb66c99": "中科天齐团队参加FSE 2025，提出基于多对象类型状态分析的重复漏洞检测新方法",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3OTU4OQ==&mid=2247493234&idx=1&sn=78f2aa07ca247e24d83adb816efaaf01": "别让\"入门慢\"拖慢你的脚步|庆尘Src三期课程来袭——聚焦独家漏洞挖掘技巧",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523592&idx=1&sn=399b4d7dd5399d33772e13913c35200b": "思科：满分ISE漏洞可导致未认证攻击者执行root 代码",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494298&idx=1&sn=94da07edbc63634f6c0231aa043a663f": "【首发复现】Windows NEGOEX 蠕虫级高危远程代码执行漏洞(CVE-2025-47981)"
 }
