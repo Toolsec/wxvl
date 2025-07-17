@@ -16028,5 +16028,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523576&idx=2&sn=cae33dc0a4154ffe056c01f3975eb200": "ImageMagick存在栈缓冲溢出漏洞，可导致RCE",
     "https://mp.weixin.qq.com/s?__biz=MzA3NDQ0MzkzMA==&mid=2651733722&idx=1&sn=2a5cc95ac03a82d96334bb722b65da1f": "攻防演练利器：启明星辰天镜漏扫精准狙击高危漏洞！",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490480&idx=1&sn=aedd535f601272923435b2dcbc06a9f0": "【已复现】Fortinet FortiWeb存在SQL注入漏洞（CVE-2025-25257）",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247493321&idx=1&sn=ccb64d65a92e030fab4bd17e36c69881": "一键获取上万份资料和漏洞情报的资源情报网站"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247493321&idx=1&sn=ccb64d65a92e030fab4bd17e36c69881": "一键获取上万份资料和漏洞情报的资源情报网站",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490480&idx=2&sn=72f9ba58728459766a57f577c2d117bb": "【已复现】用友U9 Cloud存在远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070668&idx=2&sn=ce0182339a28bea5592baa50de5cc5e7": "【安全圈】起亚车机系统曝安全漏洞！黑客竟能远程操控"
 }
