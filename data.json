@@ -16057,5 +16057,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496792&idx=1&sn=1a89dc1a57debe1bcc662fc35fb66c99": "中科天齐团队参加FSE 2025，提出基于多对象类型状态分析的重复漏洞检测新方法",
     "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3OTU4OQ==&mid=2247493234&idx=1&sn=78f2aa07ca247e24d83adb816efaaf01": "别让\"入门慢\"拖慢你的脚步|庆尘Src三期课程来袭——聚焦独家漏洞挖掘技巧",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523592&idx=1&sn=399b4d7dd5399d33772e13913c35200b": "思科：满分ISE漏洞可导致未认证攻击者执行root 代码",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494298&idx=1&sn=94da07edbc63634f6c0231aa043a663f": "【首发复现】Windows NEGOEX 蠕虫级高危远程代码执行漏洞(CVE-2025-47981)"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494298&idx=1&sn=94da07edbc63634f6c0231aa043a663f": "【首发复现】Windows NEGOEX 蠕虫级高危远程代码执行漏洞(CVE-2025-47981)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzYzMTE5OA==&mid=2247484350&idx=1&sn=aa3db900309caf2a179befd3484960f2": "GeoServer存在默认口令admin:geoserver 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489561&idx=1&sn=38afd7424219c9e5561316f486e4cc9f": "Out of Band Exploitation (OOB) 利用技术速查表",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494304&idx=1&sn=24b77ad7adcfcdc3dbeddc75f3a8ce32": "独家 | 360联合清华大学发布全球首份智能体安全报告，曝光20+漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500987&idx=1&sn=25f8d604058e852f92ef77abc5548ad6": "WPS 文档中心与文档中台远程代码执行漏洞远程代码执行漏洞"
 }
