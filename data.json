@@ -16030,5 +16030,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490480&idx=1&sn=aedd535f601272923435b2dcbc06a9f0": "【已复现】Fortinet FortiWeb存在SQL注入漏洞（CVE-2025-25257）",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247493321&idx=1&sn=ccb64d65a92e030fab4bd17e36c69881": "一键获取上万份资料和漏洞情报的资源情报网站",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490480&idx=2&sn=72f9ba58728459766a57f577c2d117bb": "【已复现】用友U9 Cloud存在远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070668&idx=2&sn=ce0182339a28bea5592baa50de5cc5e7": "【安全圈】起亚车机系统曝安全漏洞！黑客竟能远程操控"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070668&idx=2&sn=ce0182339a28bea5592baa50de5cc5e7": "【安全圈】起亚车机系统曝安全漏洞！黑客竟能远程操控",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494290&idx=2&sn=a02c958b20179cf6beb420d4491d6a11": "【风险提示】VMware多个高危漏洞安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTIyOTA0OQ==&mid=2247485246&idx=1&sn=ab3c5eb8fd8c119eada00719b8986fa0": "Java组件安全&数据处理&FastJson各个版本&JackSon&XStream&自动BP插件&CVE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490488&idx=2&sn=6c76da8465450c3c79d79e472919de4f": "【风险通告】VMware多产品存在高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490033&idx=1&sn=cd1fba8e57dcd48a6f8a36cb63e8a19f": "一个实时更新的漏洞裤",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611454&idx=4&sn=9ba81f464170a0d7410456045e153a05": "Yscan 是一款集 Web 资产扫描、图形化 Nuclei POC 管理、漏洞验证与数据整理于一体的实战型安全工具。",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494290&idx=1&sn=3a91fb3c0b5f85fce1d7dbffc4e55ff9": "【已复现】存在20年的Windows虚拟硬盘权限提升漏洞(CVE-2025-49689)",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490445&idx=1&sn=d31f158d701b9c31fcc7c33cc05b2c61": "【高危漏洞预警】LaRecipe服务器端模板注入漏洞CVE-2025-53833"
 }
