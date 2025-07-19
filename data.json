@@ -16097,5 +16097,11 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650211641&idx=1&sn=ff2dc976a59a468983e558afa92a912f": "安天智甲终端防御系统（EDR）产品升级通告：紧急防护微信PC版远程代码执行（RCE）漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MzUxNDQwNg==&mid=2247483998&idx=1&sn=1fc9a29ab6682685a8fa8f63c3c5fe97": "手把手教你学会代码审计之命令注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483934&idx=1&sn=d5857143ae8cc3a4efc5a0e53ced58cf": "东胜物流软件 WmsZXFeeGridSource.aspx SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597375&idx=3&sn=932fa7865bd708b7031df174772567e5": "BIND 9 DNS解析软件漏洞，可能引发缓存投毒与拒绝服务攻击"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597375&idx=3&sn=932fa7865bd708b7031df174772567e5": "BIND 9 DNS解析软件漏洞，可能引发缓存投毒与拒绝服务攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493785&idx=2&sn=b6d7880ae3a645643d60d6269ee37cb3": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492192&idx=1&sn=2204c560a0d68d9237131513a57b33ab": "汉王EFaceGo updateVisitorMapConfig.do任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTUyMzUwOQ==&mid=2247483842&idx=1&sn=69c0b569ec4687a0bf953ab0268817eb": "微信 3.9 版本RCE漏洞预警",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492816&idx=1&sn=6eb49110f0c5c62383b27221af9580ae": "Oracle云代码编辑器曝RCE漏洞，允许攻击者上传恶意文件",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493495&idx=1&sn=791bebc6faa651cc3c585c2f5f481d21": "渗透测试 ｜ 分享某次项目上的渗透测试漏洞复盘",
+    "https://mp.weixin.qq.com/s?__biz=MzU4MjUxNjQ1Ng==&mid=2247524382&idx=1&sn=b3949b61e1b5f733191292af2213769c": "OSWE = 白盒审计 + 漏洞武器化"
 }
