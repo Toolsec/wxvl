@@ -16094,5 +16094,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3NDc3NDQ3NA==&mid=2247485298&idx=1&sn=3d314c96442d84fd8ec632d9e5fa0288": "微信3.9 RCE - 补档",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523602&idx=1&sn=3ec9fd59b332276a13eb21d88cdd9217": "Vmware 修复 Pwn2Own 柏林大赛上遭利用的四个 ESXi 0day漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521903&idx=1&sn=1fd7e0366f5859e4c0707a8c6325bcaa": "一键触发漏洞：Oracle云代码编辑器RCE漏洞允许攻击者上传恶意文件",
-    "https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650211641&idx=1&sn=ff2dc976a59a468983e558afa92a912f": "安天智甲终端防御系统（EDR）产品升级通告：紧急防护微信PC版远程代码执行（RCE）漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650211641&idx=1&sn=ff2dc976a59a468983e558afa92a912f": "安天智甲终端防御系统（EDR）产品升级通告：紧急防护微信PC版远程代码执行（RCE）漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MzUxNDQwNg==&mid=2247483998&idx=1&sn=1fc9a29ab6682685a8fa8f63c3c5fe97": "手把手教你学会代码审计之命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483934&idx=1&sn=d5857143ae8cc3a4efc5a0e53ced58cf": "东胜物流软件 WmsZXFeeGridSource.aspx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597375&idx=3&sn=932fa7865bd708b7031df174772567e5": "BIND 9 DNS解析软件漏洞，可能引发缓存投毒与拒绝服务攻击"
 }
