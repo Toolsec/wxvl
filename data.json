@@ -16131,5 +16131,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900983&idx=1&sn=3d4458bba407897627376170973de9b3": "旧漏洞的“新魔术”：从Linuxsys到GhostContainer，深度解析攻击者的“合法化伪装”",
     "https://mp.weixin.qq.com/s?__biz=MzkyMzI3MTI5Mg==&mid=2247485443&idx=1&sn=b0fc551b2ab431110e845fb515357e84": "中科汇联Easysite反序列化漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488338&idx=1&sn=eb889ea7d441b43d2c81ee29cc3715c0": "HW（2025-7-19）护网漏洞信息收集汇总",
-    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247487355&idx=1&sn=9200bae9ae923d78620237011b33f376": "渗透测试水漏洞清单"
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247487355&idx=1&sn=9200bae9ae923d78620237011b33f376": "渗透测试水漏洞清单",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486103&idx=1&sn=ea631f6d34c9881b7185d5b00c5d3f88": "【热点漏洞】Windows微信客户端存在目录穿越漏洞（可远程代码执行）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519647&idx=2&sn=968500d0280ea39cbb9b9f8288c939b4": "实战 | 记一次某学校AKSK泄露拿下中危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070749&idx=2&sn=04105f8ddc32460791073712282f5bbf": "【安全圈】黑客正在利用 Wing FTP 服务器的关键 RCE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494397&idx=1&sn=2d557a6310019c001a326ad3a02cf112": "【在野利用】暂无补丁！Microsoft SharePoint 远程代码执行漏洞（CVE-2025-53770）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547257&idx=2&sn=6745ead8cbc9f22456ea133e4c77d148": "关于Google Chrome V8存在类型混淆漏洞的安全公告"
 }
