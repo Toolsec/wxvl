@@ -16142,5 +16142,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494310&idx=1&sn=21b1f6fa50c3940fcc233309b4c86305": "Fortinet FortiWeb漏洞CVE-2025-25257在PoC发布数小时后遭利用",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494310&idx=2&sn=4d9b5a33631dfe30cdde65271ea9a153": "Broadcom修复Pwn2Own Berlin 2025中被利用的VMware高危漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488342&idx=1&sn=13c7a552f3f257e728b02b065e002ba2": "HW（2025-7-21）护网漏洞信息收集汇总",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096406&idx=1&sn=37ee7dab851324ca4ecb1e2e32c41326": "Sophos Intercept X for Windows 支持任意代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096406&idx=1&sn=37ee7dab851324ca4ecb1e2e32c41326": "Sophos Intercept X for Windows 支持任意代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247549049&idx=1&sn=a9888999b1ca98221bbf60a15eb7564c": "企业最易遭遇的十大IT安全漏洞解析",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325214&idx=4&sn=423efc0dc6144bdfef13a5837b03e1ae": "HPE Instant On设备存在硬编码凭证漏洞，可获取管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597663&idx=2&sn=7653176976d03c02843744f4f628e2ff": "7-Zip 曝双重漏洞：恶意文件可致系统崩溃，旧版本用户需紧急升级",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTE3MjU4Mg==&mid=2247484302&idx=1&sn=42e0113f5e72ddc92f84826671500353": "【JAVA安全笔记】ClassPathXmlApplicationContext利用链 有参构造对象RCE打法",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096406&idx=2&sn=6471c0f86eb9b15e01ed8ae126826dee": "针对 NVIDIA AI 容器工具包关键漏洞的 PoC 发布",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NzA1Nzg5OA==&mid=2247486006&idx=1&sn=670efdd62c093c7f18dfd3058aab155e": "给开发工程师讲的log4j漏洞原理",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496156&idx=1&sn=28783f7f38aca937197c716460e77131": "CNVD漏洞周报2025年第27期"
 }
