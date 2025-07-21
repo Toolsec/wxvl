@@ -16136,5 +16136,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519647&idx=2&sn=968500d0280ea39cbb9b9f8288c939b4": "实战 | 记一次某学校AKSK泄露拿下中危漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070749&idx=2&sn=04105f8ddc32460791073712282f5bbf": "【安全圈】黑客正在利用 Wing FTP 服务器的关键 RCE 漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494397&idx=1&sn=2d557a6310019c001a326ad3a02cf112": "【在野利用】暂无补丁！Microsoft SharePoint 远程代码执行漏洞（CVE-2025-53770）",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547257&idx=2&sn=6745ead8cbc9f22456ea133e4c77d148": "关于Google Chrome V8存在类型混淆漏洞的安全公告"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547257&idx=2&sn=6745ead8cbc9f22456ea133e4c77d148": "关于Google Chrome V8存在类型混淆漏洞的安全公告",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795773&idx=1&sn=f49a825a2f60f834388ce0837639989b": "SharePoint 遭受攻击：微软警告0day漏洞遭野外利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247517015&idx=1&sn=cbce3ba912ffe6f93a78b4961dd09fee": "红队快速检索漏洞储备工具 -- VRST（7月16日更新）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494310&idx=1&sn=21b1f6fa50c3940fcc233309b4c86305": "Fortinet FortiWeb漏洞CVE-2025-25257在PoC发布数小时后遭利用",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494310&idx=2&sn=4d9b5a33631dfe30cdde65271ea9a153": "Broadcom修复Pwn2Own Berlin 2025中被利用的VMware高危漏洞"
 }
